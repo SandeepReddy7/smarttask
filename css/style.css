@@ -1,0 +1,215 @@
+
+xmp {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-size:100%;
+}
+body{
+
+font-size:12px;
+font-family:arial;
+background:white;
+}
+
+/*----------------------header Start--------------------------*/
+#header{
+height:50px; 
+width:100%; 
+background:gray;
+}
+#header_inner{
+margin:0px;
+width:980px;
+}
+#logo{
+height:50px;
+width:300px;
+float:left;
+background:black;
+}
+#logo img{
+width:100px;
+height:35px;
+position: relative;
+ left: 170px;
+top: 8px;
+}
+#nav{
+margin-top:10px;
+float:right;
+width:600px;
+height:40px;
+position: relative;
+ left: 250px;
+ bottom:8px;
+}
+#nav ul li{
+display:inline;
+list-style-type:none;
+padding:10px;
+}
+#nav a{
+font-size:14px;
+font-weight:bold;
+text-decoration:none;
+color:white;
+}
+#nav a:hover{
+color:blue;
+}
+/*----------------------header:end----------------------*/
+
+/*----------------------Banner Start----------------------*/
+.banar{
+margin:0 auto;
+width:100% ;
+height:600px;
+position:relative;
+}
+.center {
+    position: absolute;
+    left: 0;
+    top:35%;
+    width: 100%;
+    text-align: center;
+    font-size:25px;
+	color:white;
+	}
+/*----------------------Banner:end----------------------*/
+
+
+/*-----------------------Description Start-------------------*/
+.business{
+height:500px;
+width:100%; 
+float:left;
+position:relative;
+}
+.buscenter{
+    position: absolute;
+    right:0px;
+    top:100px;
+    font-size: 18px;
+	color:white;
+	}
+
+.education{
+height:500px; 
+width:50%; 
+float:left;
+position:relative;
+}
+.educenter{
+    position: absolute;
+    left:60px;
+    top: 100px;
+    width: 100%;
+    font-size: 18px;
+	color:white;
+	}
+	
+/*-----------------------Description Ending--------------------------------*/
+
+/*-----------------------Footer start----------------------------------------------------------------*/
+.footer{
+	height:50px;
+	width:100%;
+	float:left;
+	background-color:silver;
+}
+.footer ul{
+	list-style-type:none;
+}
+.footer ul li{
+	display:inline;
+	font-size:20px;
+	padding:5px;
+}
+.footer ul li span{
+	padding:7px;
+}
+.footer ul li a{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+}
+/*-----------------------Footer end------------------------------------------------------*/
+
+
+
+/*-----------------------Footer2 start----------------------------------------------------------------*/
+
+.footer2{
+	height:900px;
+	width:100%;
+	float:left;
+	background-color:dimgray;
+}
+.footer2 #foot1{
+	height:900px;
+	width:600px;
+	float:left;
+	color:white;
+}
+.footer2 #foot2{
+	height:900px;
+	width:340px;
+	float:left;
+	padding:5px;
+}
+.footer2 #foot1 h4{
+	color:#00bfdd;;
+	font-size:15px;
+	padding:5px;
+	margin-left:85px;
+}
+.footer2 #foot1 ul{
+	list-style-type:none;
+	margin-left:50px;
+}
+.footer2 #foot1 ul li{
+	padding:5px;
+	color:#00bfdd;;
+	font-size:15px;
+}
+.footer2 #foot1 ul li a{
+	text-decoration:none;
+	color:white;
+	font-size:15px;
+}
+.footer2 #foot1 ul li a:hover{
+color:blue;
+}
+.footer2 #foot2 h4{
+	color:#00bfdd;;
+	font-size:15px;
+	padding:5px;
+	margin-left:85px;
+}
+.footer2 #foot2 .foot22{
+	border:1px solid #ccc; 
+	height:25px; 
+	width:200px; 
+	color:white; 
+	padding:5px; 
+	margin-top:10px;
+	margin-left:90px;
+}
+.footer2 h4{
+	color:#00bfdd;;
+	font-size:15px;
+	padding:5px;
+	margin-left:85px;
+}
+.footer2 .foot33{
+border:1px solid #ccc; 
+height:25px; 
+width:200px; 
+color:white; 
+padding:5px; 
+margin-top:10px; 
+float:left;
+}
+/*-----------------------Footer2 end--------------------------------------------------------------------------------------*/
+
